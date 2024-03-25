@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I am Computer Science student and junior Frontend developer
+I am a Computer Science student and a junior Frontend developer
 
 ## My Skills 🧠
 
